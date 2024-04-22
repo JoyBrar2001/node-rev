@@ -1,0 +1,31 @@
+2024-04-23	00:45:56	eca0684f-551d-4475-a086-53619a32a089	/	GET
+2024-04-23	00:45:56	0f83fae0-9ce1-4d1c-b70e-17ba25932ad9	/css/style.css	GET
+2024-04-23	00:46:03	4be1bf5e-a464-484b-855c-1581085d8a96	/new-page	GET
+2024-04-23	00:46:03	eaebdc04-a0b8-4b95-b04c-89ccbbaae54f	/css/style.css	GET
+2024-04-23	00:46:03	4b3f42c7-daed-4a6b-9a02-f8b18885faa0	/img/img1.jpg	GET
+2024-04-23	00:46:09	6e9a2d46-6223-4a92-a552-624fbd9c522d	/old	GET
+2024-04-23	00:46:09	62cc2b60-a90d-43fa-ad9e-96e51a1f90c7	/css/style.css	GET
+2024-04-23	00:46:26	e5b51c2e-e602-4866-ad6e-ced33b631e9e	/new-page.html	GET
+2024-04-23	00:46:26	aae84f35-3697-40e6-b72b-556349087080	/css/style.css	GET
+2024-04-23	00:46:26	9869d941-2929-4588-97ef-1b2cd3ea1f3e	/img/img1.jpg	GET
+2024-04-23	00:46:41	704778f6-ad23-4602-bc79-9e8d4c098a24	/404	GET
+2024-04-23	00:46:41	5e64fe5b-43f2-4da3-8f1b-00516ba7d403	/css/style.css	GET
+2024-04-23	00:46:46	ab2ba907-7403-48eb-a903-19dc629459cd	/	GET
+2024-04-23	00:46:46	6a260fbd-70e8-495c-8294-cf89aadad2eb	/css/style.css	GET
+2024-04-23	00:46:57	93ca906b-330c-4e02-b88d-d6d043eefaaa	/	GET
+2024-04-23	00:47:07	0c254035-4fef-4a23-8059-11d4cf5963d1	/	GET
+2024-04-23	00:47:07	58711f49-c701-47a0-825f-ca0ccffeff48	/css/style.css	GET
+2024-04-23	01:57:45	1cf93117-ffa9-4c35-ba75-929afbecb361	GET	undefined	/
+2024-04-23	01:57:45	1295dc02-4564-4866-acaf-72566daeb35a	GET	undefined	/css/style.css
+2024-04-23	01:59:28	7275c319-a26a-4c4a-bcee-70fec0c0f675	GET	undefined	/new-page
+2024-04-23	01:59:28	afbed524-b1fc-4fef-b5c9-ba2ff1e8eab3	GET	undefined	/img/img1.jpg
+2024-04-23	01:59:28	67e1916b-f536-4da9-b664-545046b64890	GET	undefined	/css/style.css
+2024-04-23	02:01:58	9bf660af-a588-4edc-b7f6-838414592bb2	GET	undefined	/
+2024-04-23	02:01:58	b0b60f39-39f5-4cf4-a350-f36f42a66188	GET	undefined	/css/style.css
+2024-04-23	02:03:39	3c7eb099-1af5-4a6a-b956-9e444ef1b55d	GET	undefined	/
+2024-04-23	02:03:39	461026e8-6bdb-4738-b0ef-34f6eae3b2f3	GET	undefined	/css/style.css
+2024-04-23	02:13:35	9fe64f12-56f6-415d-9abf-ff6471db96fe	GET	undefined	/dave
+2024-04-23	02:13:35	a4589e37-70a7-466b-b759-33507994b13a	GET	undefined	/css/style.css
+2024-04-23	02:13:37	5eb36fde-42b7-49bb-a5b7-3fe0be8115fd	GET	undefined	/new-page
+2024-04-23	02:13:37	634d155a-deca-4b55-9f8c-21a3c0259f6f	GET	undefined	/css/style.css
+2024-04-23	02:13:37	ecf58fc3-56aa-4b00-9f27-d874003d6679	GET	undefined	/img/img1.jpg
