@@ -1,0 +1,129 @@
+2024-04-23	00:45:56	eca0684f-551d-4475-a086-53619a32a089	/	GET
+2024-04-23	00:45:56	0f83fae0-9ce1-4d1c-b70e-17ba25932ad9	/css/style.css	GET
+2024-04-23	00:46:03	4be1bf5e-a464-484b-855c-1581085d8a96	/new-page	GET
+2024-04-23	00:46:03	eaebdc04-a0b8-4b95-b04c-89ccbbaae54f	/css/style.css	GET
+2024-04-23	00:46:03	4b3f42c7-daed-4a6b-9a02-f8b18885faa0	/img/img1.jpg	GET
+2024-04-23	00:46:09	6e9a2d46-6223-4a92-a552-624fbd9c522d	/old	GET
+2024-04-23	00:46:09	62cc2b60-a90d-43fa-ad9e-96e51a1f90c7	/css/style.css	GET
+2024-04-23	00:46:26	e5b51c2e-e602-4866-ad6e-ced33b631e9e	/new-page.html	GET
+2024-04-23	00:46:26	aae84f35-3697-40e6-b72b-556349087080	/css/style.css	GET
+2024-04-23	00:46:26	9869d941-2929-4588-97ef-1b2cd3ea1f3e	/img/img1.jpg	GET
+2024-04-23	00:46:41	704778f6-ad23-4602-bc79-9e8d4c098a24	/404	GET
+2024-04-23	00:46:41	5e64fe5b-43f2-4da3-8f1b-00516ba7d403	/css/style.css	GET
+2024-04-23	00:46:46	ab2ba907-7403-48eb-a903-19dc629459cd	/	GET
+2024-04-23	00:46:46	6a260fbd-70e8-495c-8294-cf89aadad2eb	/css/style.css	GET
+2024-04-23	00:46:57	93ca906b-330c-4e02-b88d-d6d043eefaaa	/	GET
+2024-04-23	00:47:07	0c254035-4fef-4a23-8059-11d4cf5963d1	/	GET
+2024-04-23	00:47:07	58711f49-c701-47a0-825f-ca0ccffeff48	/css/style.css	GET
+2024-04-23	01:57:45	1cf93117-ffa9-4c35-ba75-929afbecb361	GET	undefined	/
+2024-04-23	01:57:45	1295dc02-4564-4866-acaf-72566daeb35a	GET	undefined	/css/style.css
+2024-04-23	01:59:28	7275c319-a26a-4c4a-bcee-70fec0c0f675	GET	undefined	/new-page
+2024-04-23	01:59:28	afbed524-b1fc-4fef-b5c9-ba2ff1e8eab3	GET	undefined	/img/img1.jpg
+2024-04-23	01:59:28	67e1916b-f536-4da9-b664-545046b64890	GET	undefined	/css/style.css
+2024-04-23	02:01:58	9bf660af-a588-4edc-b7f6-838414592bb2	GET	undefined	/
+2024-04-23	02:01:58	b0b60f39-39f5-4cf4-a350-f36f42a66188	GET	undefined	/css/style.css
+2024-04-23	02:03:39	3c7eb099-1af5-4a6a-b956-9e444ef1b55d	GET	undefined	/
+2024-04-23	02:03:39	461026e8-6bdb-4738-b0ef-34f6eae3b2f3	GET	undefined	/css/style.css
+2024-04-23	02:13:35	9fe64f12-56f6-415d-9abf-ff6471db96fe	GET	undefined	/dave
+2024-04-23	02:13:35	a4589e37-70a7-466b-b759-33507994b13a	GET	undefined	/css/style.css
+2024-04-23	02:13:37	5eb36fde-42b7-49bb-a5b7-3fe0be8115fd	GET	undefined	/new-page
+2024-04-23	02:13:37	634d155a-deca-4b55-9f8c-21a3c0259f6f	GET	undefined	/css/style.css
+2024-04-23	02:13:37	ecf58fc3-56aa-4b00-9f27-d874003d6679	GET	undefined	/img/img1.jpg
+2024-04-23	02:33:37	dc21c480-56dc-4ae7-a286-4ef2f7f792b3	GET	undefined	/subdir
+2024-04-23	02:33:37	83683f7f-d124-477c-8918-25072a93bc5c	GET	undefined	/css/style.css
+2024-04-23	02:34:08	d0d44f05-dc60-4bd2-8438-3a0b61b25a13	GET	undefined	/subdir
+2024-04-23	02:34:08	35c0f57c-e5ef-495b-a87a-40b03beedcdf	GET	undefined	/css/style.css
+2024-04-23	02:34:09	9a6e9212-082d-42f3-ab62-ce262fe8f9de	GET	undefined	/subdir
+2024-04-23	02:34:09	9e77852c-a50c-4917-abd0-30b3b26e3b44	GET	undefined	/css/style.css
+2024-04-23	02:34:09	7dbf8932-2233-46f5-870b-8282a1833892	GET	undefined	/subdir
+2024-04-23	02:34:09	0033b29a-2cb0-494c-8be6-394ba9a23de5	GET	undefined	/css/style.css
+2024-04-23	02:35:09	65bd57e5-2837-4436-bb6d-d7ae1fb2ab2c	GET	undefined	/subdir/index
+2024-04-23	02:35:09	60b8c0c3-ad9f-4dd9-8ed9-4902f13d766e	GET	undefined	/subdir/css/style.css
+2024-04-23	02:35:19	46f37c39-a025-437f-bd17-b2dae8163f88	GET	undefined	/subdir/
+2024-04-23	02:35:19	1a72ac61-6702-42af-9040-31e77cee4d8b	GET	undefined	/subdir/css/style.css
+2024-04-23	02:35:52	6c614e72-5ced-4bd8-9b7c-a7b5100b0fc6	GET	undefined	/subdir/
+2024-04-23	02:35:56	65eb2f1a-25c4-4d49-9ea1-a4a95706d5f0	GET	undefined	/subdir/test
+2024-04-23	02:35:56	bf3053a9-eb1f-4bed-ba92-62c6f3af3723	GET	undefined	/subdir/css/style.css
+2024-04-23	02:36:01	84395184-1763-414d-aaa9-a7993bfea24e	GET	undefined	/subdir/text
+2024-04-23	02:36:01	32f0a676-0eea-420f-87d3-e0541b490fb0	GET	undefined	/subdir/css/style.css
+2024-04-23	02:36:15	22689ce0-cf7a-4971-94f1-525b493ff009	GET	undefined	/subdir/text
+2024-04-23	02:36:15	89802e6a-9e92-4e1d-af28-0bbf45480cc1	GET	undefined	/subdir/css/style.css
+2024-04-23	02:36:17	8c98aa52-a5f1-42d0-8918-0c4234de1dc5	GET	undefined	/subdir/test
+2024-04-23	02:38:47	f50ef98c-4d48-4c65-9302-c980c3ce1db5	GET	undefined	/subdir/test
+2024-04-23	02:38:51	4114c11d-f5a9-49c9-999b-f0e78a63a61f	GET	undefined	/subdir/tesp
+2024-04-23	02:38:51	e573a0d2-690f-4085-8ec9-8ac8f1df18dd	GET	undefined	/subdir/css/style.css
+2024-04-23	02:42:54	dd72f7dd-62cd-4d7c-aed5-cecb236214ba	GET	undefined	/
+2024-04-23	02:42:54	21c6a53b-c6fa-40db-80e3-d3a2ff7b46da	GET	undefined	/css/style.css
+2024-04-23	02:42:57	85d7b6d3-8a82-40b0-a47b-10d1c5798854	GET	undefined	/new-page
+2024-04-23	02:42:57	8bdbff6f-b4b0-43b0-afe2-e11c3315aeeb	GET	undefined	/img/img1.jpg
+2024-04-23	02:42:57	f2fd5faa-f368-4947-abfa-7fa522a8e267	GET	undefined	/css/style.css
+2024-04-23	03:06:28	f5cbccee-48ab-4c83-86d3-d709fa264e71	GET	undefined	/employees
+2024-04-23	03:06:31	d459c4d2-524d-4f2e-992f-fc3d678f3eb1	GET	undefined	/employees/1
+2024-04-23	16:40:31	f7c64bfc-0219-49cc-b72b-2e9344dfb895	GET	undefined	/employees
+2024-04-23	16:41:02	c3672acd-0908-4814-8284-0a4656796743	GET	undefined	/employees/1
+2024-04-23	16:41:55	d5b56cb6-521d-4ebf-9c47-e88952c7631a	POST	undefined	/employees
+2024-04-23	16:41:59	5f17552d-b7d9-4ad5-8d88-c57b845a82e1	POST	undefined	/employees
+2024-04-23	16:43:20	ed643caa-7239-471a-aef9-4660c5d66136	PUT	undefined	/employees
+2024-04-23	16:44:24	a8eac312-1c43-44ba-9d6d-5df3ad170961	DELETE	undefined	/employees
+2024-04-23	16:44:47	74ec2806-a7dc-47bb-9fb5-c8161b18ac1e	GET	undefined	/employees
+2024-04-27	16:23:41	9fe4133e-3e19-425b-ac2f-b87a4f161fc8	GET	undefined	/
+2024-04-27	16:23:41	8e21debe-63b7-49f0-815c-d682af5cd38a	GET	undefined	/css/style.css
+2024-04-27	16:23:41	43a1ee83-6874-463d-96da-5c0675a32958	GET	undefined	/favicon.ico
+2024-04-27	16:30:58	8009a418-e16b-4494-b771-09ca7ad5b24f	POST	undefined	/register
+2024-04-27	16:31:27	a71d0893-5a5a-45c1-8242-c05cc1f17ebd	POST	undefined	/register
+2024-04-27	16:33:48	5ff7a895-e277-440d-9091-2325abb09782	POST	undefined	/register
+2024-04-27	16:41:44	c1e48dfb-1ba2-41b3-be29-3e007abf6429	GET	undefined	/auth
+2024-04-27	16:42:35	aa550189-16c5-441d-90c0-93c174fe55c9	GET	undefined	/auth
+2024-04-27	16:43:37	0742e92d-9a9e-46b3-a26f-6c27306d22bc	GET	undefined	/auth
+2024-04-27	16:43:44	76d872f0-64e3-40d3-9dd1-1094591384db	POST	undefined	/register
+2024-04-27	16:44:11	ee42fd74-a73f-4912-9942-71e274c666eb	POST	undefined	/register
+2024-04-27	16:44:38	b14f817f-e83b-4df9-97f9-5dcac9ba0274	POST	undefined	/auth
+2024-04-28	00:48:05	35d73bf6-ec90-4f48-9807-76ef9c8b2e41	POST	undefined	/auth
+2024-04-28	00:49:05	281105cd-d35d-400f-85ce-1afddf4e77a1	POST	undefined	/auth
+2024-04-28	00:49:26	50cd8fdf-ebe0-46b1-9d9f-16d3de39a329	GET	undefined	/employees
+2024-04-28	00:51:31	8ce5d6ea-7b37-4658-abba-e5f3b90c3580	GET	undefined	/employees
+2024-04-28	00:51:36	42837a75-a384-4e2e-b057-dff8f4cd190b	POST	undefined	/auth
+2024-04-28	00:51:44	2b7622dd-781c-48fa-9f67-481d85438f91	GET	undefined	/employees
+2024-04-28	01:10:35	c5a3f216-de7e-4b50-b02d-711dfe920390	POST	undefined	/auth
+2024-04-28	01:12:32	ab68e205-3ffe-437d-a28e-e3cba83111fb	GET	undefined	/refresh
+2024-04-28	01:12:36	0facdf9a-8a77-4056-9435-cd11204e96ea	GET	undefined	/refresh
+2024-04-28	01:12:58	a84d43bb-c75b-4279-8ad0-55193970c26c	GET	undefined	/refresh
+2024-04-28	01:13:08	474ac454-f249-455f-a91f-f0db49b96e19	GET	undefined	/refresh
+2024-04-28	01:13:10	f39530ec-ce01-492e-b104-9dde661a9fbc	GET	undefined	/refresh
+2024-04-28	01:29:11	01949b39-4ac4-491f-9cd1-a5404e2bc18c	POST	undefined	/auth
+2024-04-28	01:29:41	e9496cff-0b95-4e82-b5bb-ab74b83501cd	GET	undefined	/logout
+2024-04-28	01:29:49	0d84a4fe-6288-45c4-b85e-a2cb12c2c80f	POST	undefined	/auth
+2024-04-28	01:29:54	ee4891e8-d825-4659-85be-e5c991f6ab24	GET	undefined	/logout
+2024-04-28	01:30:19	1aa05228-cda6-4af6-8fc9-4fbb56f11438	POST	undefined	/auth
+2024-04-28	01:30:30	40981115-59a7-4a32-9f1a-9b72496e6999	GET	undefined	/logout
+2024-04-28	01:30:39	bdabd9ec-215b-4641-bf4c-9eae90c99b86	POST	undefined	/auth
+2024-04-28	01:31:40	0d843c5c-7e7a-40d6-9a03-b964c0bdc643	GET	undefined	/logout
+2024-04-28	01:32:00	61ee210f-065c-471d-a7ad-f5811a9f7069	POST	undefined	/auth
+2024-04-28	01:32:02	c8156091-d7fb-4ec9-983a-88e5ef6fc696	POST	undefined	/auth
+2024-04-28	01:32:11	7d4e483e-1620-4906-9fa5-70dd9ab82f75	GET	undefined	/logout
+2024-04-28	01:32:53	cbc10e98-e568-4de7-ae28-b0251a10b86e	POST	undefined	/auth
+2024-04-28	01:32:56	06dee998-953d-4494-a7cd-359e2e651727	GET	undefined	/refresh
+2024-04-28	01:32:58	87e3154e-0f56-4e29-afe0-8a1a9a17af8a	GET	undefined	/logout
+2024-04-28	01:34:30	2dc76709-5f58-4c4d-9200-1517432b55d2	GET	undefined	/logout
+2024-04-28	01:35:08	0fb99a59-cc68-48d9-b24c-b9014f579ace	GET	undefined	/logout
+2024-04-28	01:35:29	4bc2ba62-851c-46ea-80ca-ab2f7766520f	GET	undefined	/logout
+2024-04-28	01:35:40	1022b0fd-0775-4c93-bc0e-26d3ecb600e4	GET	undefined	/logout
+2024-04-28	01:35:58	d2b7342e-cb36-47b1-9ceb-ec6b0d346a9c	GET	undefined	/logout
+2024-04-28	01:36:02	f97a3720-877e-45f4-b32c-6c339325532b	POST	undefined	/auth
+2024-04-28	01:36:07	379d5bfa-e7c0-44aa-9d25-55ca28a84bbd	GET	undefined	/logout
+2024-04-28	01:36:08	ca285fb2-aada-4eb8-8614-e8249d6c5892	GET	undefined	/logout
+2024-04-28	12:48:01	cbf4dbb5-ba7f-4058-a7a2-b43c89adb1a1	POST	undefined	/auth
+2024-04-28	12:48:13	dffdb0c8-5f18-4739-92d1-772b0fbb225b	POST	undefined	/auth
+2024-04-28	12:48:36	09e4016d-5e40-4233-a1ce-92bc5c3cff1a	GET	undefined	/employees
+2024-04-28	12:51:09	fdcd316a-54f9-4d72-9a80-fbddad9e0c96	POST	undefined	/auth
+2024-04-28	12:51:19	ca831d3a-4ebd-4769-a94d-9c9adb952ff1	GET	undefined	/employees
+2024-04-28	12:52:43	2d0714ae-ba70-48c7-879d-b8c449df9db0	GET	undefined	/logout
+2024-04-28	12:52:52	42869565-79b8-4ce2-b932-f2820363f084	POST	undefined	/auth
+2024-04-28	12:53:16	8a866aac-d79d-4dd8-a3f0-c89c8c0e129a	POST	undefined	/employees
+2024-04-28	12:53:28	aeb48a62-0c1a-4abc-9b38-fc968be2053d	POST	undefined	/auth
+2024-04-28	12:53:39	67037657-13d7-43a3-a085-850c547db86e	DELETE	undefined	/employees
+2024-04-28	12:54:20	9367c55a-0417-4c0e-bf65-cc8a7e89b0b9	POST	undefined	/auth
+2024-04-28	12:54:33	28569a4b-a14b-45c5-b517-c4fd7721f3a5	DELETE	undefined	/employees
+2024-04-28	16:54:55	01a20495-b177-456c-a494-44feb5cbbdd3	POST	undefined	/register
+2024-04-28	16:56:12	4341bf07-bf7b-454a-af85-4111c1c7d2f3	POST	undefined	/register
+2024-04-28	17:02:40	4bfaa729-be2f-4f55-84e0-0f5f7118b105	POST	undefined	/register
